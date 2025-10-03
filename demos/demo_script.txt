@@ -1,1 +1,11 @@
-﻿Demo script placeholder (3-6 min)
+﻿Demo title: Web PoC Demo
+Status: ⚠️ Draft
+Video link: (to add later)
+
+Plan:
+1. Intro & context
+2. Show vulnerable app
+3. Run exploit payload
+4. Demonstrate impact
+5. Show fix and retest
+Timestamps: (to add)
