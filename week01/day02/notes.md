@@ -1,15 +1,5 @@
-﻿# week01 / day02 — Notes
-
-**Date:** 2025-10-03
-
-**Goal:** (add your daily goal)
-
----
-## Commands run
-- 
-
-## Observations
-- 
-
-## Next steps
-- 
+﻿# Kali Install Notes
+- ISO/OVA used: <note>
+- Snapshot name: kali_initial_snapshot
+- Virtualization: VirtualBox / VMware Workstation
+- Useful commands: sudo apt update && sudo apt upgrade -y
