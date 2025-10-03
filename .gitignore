@@ -1,0 +1,21 @@
+﻿# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Node / Python caches (if any)
+node_modules/
+__pycache__/
+
+# OS-specific
+*.log
+
+# VSCode
+.vscode/
+
+# Vagrant
+.vagrant/
+
+# Misc
+*.pem
+*.pfx
